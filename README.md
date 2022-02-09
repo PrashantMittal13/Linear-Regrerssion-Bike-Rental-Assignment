@@ -11,18 +11,16 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Understand and analyse the data to identify the factors affecting the sales of shared bikes so that the company can utilize this knowledge for its increase in sale for the upcoming year.
+- The analysis should help the company recognize a potential factors that are directly affecting the total count of shared bike registered.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 2019 has more demand as compared to the year 2018
+- Demand for the bikes start inreasing from spring to summer, then reaches the maximum in fall and starts decreasing in winter.
+- More number of bikes was rented during working day as the office and school going people might be taking it for there commuting.
+- The bikes has the maximum demand when the weather is clean or partly cloudy and the demand is minimum when the weather is Rainy or snowy, which is somewhat obvious.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

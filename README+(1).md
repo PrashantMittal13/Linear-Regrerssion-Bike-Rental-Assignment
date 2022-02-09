@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Rental Assignment
+> This assignment coves the use of Linear regression to forecast the demand of the shared bikes.
 
 
 ## Table of Contents

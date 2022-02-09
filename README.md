@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Linear Regression Bike Rental Assignment
+> This assignment coves the use of Linear regression to forecast the demand of the shared bikes.
 
 
 ## Table of Contents
@@ -26,9 +26,7 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Jupyter NoteBook - version 6.3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
